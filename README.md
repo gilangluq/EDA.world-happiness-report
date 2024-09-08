@@ -12,7 +12,11 @@ This repository contains an in-depth Exploratory Data Analysis (EDA) of the Worl
 ### Tools & Technologies:
 - Python (Pandas, NumPy)
 - Matplotlib, Seaborn
+- sklearn, plotly, dash
 - Jupyter Notebooks
 
 ### Use Case:
 This analysis is intended for data enthusiasts, policy makers, and researchers interested in global well-being trends. It also serves as a hands-on project for those learning EDA and data visualization techniques.
+
+### Tips:
+If GitHub does not render the graphs or plots properly, please copy the ipynb URL and use NBviewer, Binder, or ReviewNB to see the graph.
